@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+// added a comment
+
 function SignUp() {
     const [email, setEmail] = useState('');
     const [mobileNumber, setMobileNumber] = useState('');
